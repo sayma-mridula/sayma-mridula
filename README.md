@@ -60,11 +60,8 @@
 
 ---
 
-### 🏆 Achievements:
-- 🚀 Started the journey into full-stack web development
-- 🌟 Passionate about problem-solving and clean code
 
----
+
 
 
 <!--
