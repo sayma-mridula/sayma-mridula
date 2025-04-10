@@ -3,9 +3,12 @@
 
 - 🔭 I’m currently working on personal MERN stack projects
   
-- 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js**  
-- 👩‍💻 I love building clean, user-friendly applications and learning new tech every day  
+- 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js**
+  
+- 👩‍💻 I love building clean, user-friendly applications and learning new tech every day
+   
 - 📫 Reach me at: **sayma.mridula@email.com** (replace this with your real email)
+  
 
 ---
 
