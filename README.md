@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayma Mridula</h1>
 <h4 align="center">An enthusiastic developer diving into the world of full-stack web development</h4>
 
+
+
 - 🔭 I’m currently working on personal MERN stack projects
   
 - 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js**
