@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayma Mridula</h1>
 <h3 align="center">An enthusiastic developer diving into the world of full-stack web development</h3>
 
-- 🔭 I’m currently working on personal MERN stack projects  
+- 🔭 I’m currently working on personal MERN stack projects
+  
 - 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js**  
 - 👩‍💻 I love building clean, user-friendly applications and learning new tech every day  
 - 📫 Reach me at: **sayma.mridula@email.com** (replace this with your real email)
