@@ -7,14 +7,15 @@
   
 - 👩‍💻 I love building clean, user-friendly applications and learning new tech every day
    
-- 📫 Reach me at: **sayma.mridula@email.com** (replace this with your real email)
+- 📫 Reach me at: **mushsharat2007036@stud.kuet.ac.bd** 
   
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mridula_sayma?igsh=MWFiNTRuanlqMm8ybA==)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+
 
 ---
 
