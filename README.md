@@ -14,15 +14,16 @@
 
 
 ### 🌐 Connect with me:
+
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/sayma.mushsharat" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/mridula_sayma?igsh=MWFiNTRuanlqMm8ybA==" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" height="40" width="40" />
+  </a>
 </p>
 
-### 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mridula_sayma?igsh=MWFiNTRuanlqMm8ybA==)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sayma.mushsharat)
 
 
 ---
