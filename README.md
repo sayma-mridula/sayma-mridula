@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with me:
 
-<p align="left">
+
   <a href="https://facebook.com/sayma.mushsharat" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="40" width="40" />
   </a>
@@ -23,14 +23,13 @@
   <a href="https://instagram.com/mridula_sayma?igsh=MWFiNTRuanlqMm8ybA==" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" height="40" width="40" />
   </a>
-</p>
+
 
 
 
 ---
 
 ### 💻 Languages and Tools:
-
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
@@ -44,9 +43,10 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png" alt="Express.js" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/swift.png" alt="Swift" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" height="40"/>
   <img src="https://img.icons8.com/officel/40/php-logo.png" alt="PHP" height="40"/>
 </p>
 
