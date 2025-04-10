@@ -5,12 +5,20 @@
   
 - 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js**
   
-- 👩‍💻 I love building clean, user-friendly applications and learning new tech every day
+- 👩‍💻 All of my projects are available at https://github.com/sayma-mridula?tab=repositories
    
 - 📫 Reach me at: **mushsharat2007036@stud.kuet.ac.bd** 
   
 
 ---
+
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ### 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mridula_sayma?igsh=MWFiNTRuanlqMm8ybA==)  
