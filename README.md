@@ -31,20 +31,25 @@
 
 ### 💻 Languages and Tools:
 
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png" alt="Express.js" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" height="40"/>
+  <img src="https://img.icons8.com/officel/40/php-logo.png" alt="PHP" height="40"/>
 </p>
+
 
 
 ---
